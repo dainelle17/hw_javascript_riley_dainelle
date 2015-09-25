@@ -81,5 +81,5 @@ function numba (string) {
 
 function inception (callback, value) {
 	callback (value);
-	console.log ('Bridesmaids is a great movie!')
+	console.log ('Rio is a great movie!')
 }
