@@ -9,7 +9,7 @@ var iceCream = [
 
 // Objects //
 
-var presidents = {
+var presidents = [
 
 var BarackObama = { 
 	firstName = 'Barack'
@@ -50,4 +50,4 @@ var RonaldReagan = {
 	yearsOfPresidency = '1981-1989'
 }
 
-}
+]
